@@ -1,0 +1,12 @@
+{
+  "name": "n8n-custom",
+  "version": "1.0.0",
+  "dependencies": {
+    "n8n": "latest",
+    "n8n-nodes-mcp": "^0.1.25",
+    "n8n-nodes-pdfkit": "^0.1.2"
+  },
+  "scripts": {
+    "start": "n8n start"
+  }
+}
